@@ -46,11 +46,11 @@
 
 ## 👋 About Me
 
-I'm **Hetarth Bhatt**, a Computer Engineering student at **LDRP Institute of Technology & Research (2024–2028)**, full-stack developer, and applied AI/ML researcher from Gujarat, India.
+I'm **Hetarth Bhatt**, a Computer Engineering student at **LDRP Institute of Technology & Research (2024–2028)**, full-stack developer and applied AI/ML researcher from Gujarat, India.
 
-I enjoy working at the intersection of **scalable software architectures**, **applied artificial intelligence**, and **cloud computing**.
+I enjoy working at the intersection of **scalable software architectures**, **applied artificial intelligence** and **cloud computing**.
 
-For me, building software is not just about writing code — it's about **understanding problems deeply, designing clean architectures, and shipping reliable solutions that create real impact**.
+For me, building software is not just about writing code — it's about **understanding problems deeply, designing clean architectures and shipping reliable solutions that create real impact**.
 
 ```javascript
 const hetarth = {
@@ -81,10 +81,10 @@ const hetarth = {
 ## 🚀 What I'm Focused On
 
 - 🧠 **Applied AI & Machine Learning** — LLM embeddings, RAG pipelines, Computer Vision, Model Evaluation & Explainable AI (XAI).
-- 🌐 **Full-Stack Web Development** — Responsive, high-performance web applications using React, Next.js, Node.js, Express, MongoDB, and Firebase.
-- ☁️ **Cloud & DevOps** — Deploying, securing, and scaling cloud-native workloads on AWS (Amplify, EC2, S3, IAM) with modern CI/CD.
-- 🔬 **Research & Innovation** — Publishing and experimenting with healthcare AI, drug interaction safety, and offline research assistants.
-- 🤝 **Hackathons & Collaborative Building** — Fast-paced prototyping, cross-functional teamwork, and solving complex technical challenges.
+- 🌐 **Full-Stack Web Development** — Responsive, high-performance web applications using React, Next.js, Node.js, Express, MongoDB and Firebase.
+- ☁️ **Cloud & DevOps** — Deploying, securing and scaling cloud-native workloads on AWS (Amplify, EC2, S3, IAM) with modern CI/CD.
+- 🔬 **Research & Innovation** — Publishing and experimenting with healthcare AI, drug interaction safety and offline research assistants.
+- 🤝 **Hackathons & Collaborative Building** — Fast-paced prototyping, cross-functional teamwork and solving complex technical challenges.
 
 ---
 
@@ -101,7 +101,7 @@ const hetarth = {
 </p>
 
 - 🟩 **Manthan — Air-Gapped AI Research Assistant**
-  > An offline, air-gapped AI research tool designed to parse, vectorize, summarize, and discover relationships between scientific papers without cloud exposure.
+  > An offline, air-gapped AI research tool designed to parse, vectorize, summarize and discover relationships between scientific papers without cloud exposure.
   > `Python` `LLMs` `Embeddings` `FAISS` `ChromaDB`
 
 - 🟦 **Polypharmacy AI System — Prescription Safety & Adverse Interaction Modeling**
@@ -157,11 +157,11 @@ const hetarth = {
 ## 💻 Featured Projects
 
 ### 🧠 [Manthan – Offline AI Research Assistant](https://github.com/hetarthbhatt07)
-An offline, air-gapped AI research tool designed to help users summarize research papers, explore domain knowledge, and discover relationships between documents locally.
+An offline, air-gapped AI research tool designed to help users summarize research papers, explore domain knowledge and discover relationships between documents locally.
 - **Tech Stack:** `Python` `LLMs` `Embeddings` `FAISS` `ChromaDB`
 
 ### 📋 [Collaborative Task Suite](https://github.com/hetarthbhatt07)
-A collaborative productivity tool that helps teams organize, track, and manage daily project tasks using responsive drag-and-drop Kanban boards with real-time state synchronization.
+A collaborative productivity tool that helps teams organize, track and manage daily project tasks using responsive drag-and-drop Kanban boards with real-time state synchronization.
 - **Tech Stack:** `React` `Firebase` `Tailwind CSS` `Framer Motion`
 
 ### 💊 [Polypharmacy AI System](https://github.com/hetarthbhatt07)
@@ -169,7 +169,7 @@ An AI-based clinical research project focused on analyzing multiple prescription
 - **Tech Stack:** `Python` `Machine Learning` `NLP` `Healthcare AI`
 
 ### ♻️ [Smart Waste Management System](https://github.com/hetarthbhatt07)
-An IoT and AI-powered solution designed to improve urban waste collection through intelligent monitoring, sensor telemetry, and route optimization.
+An IoT and AI-powered solution designed to improve urban waste collection through intelligent monitoring, sensor telemetry and route optimization.
 - **Tech Stack:** `IoT` `AI/ML` `Cloud Computing`
 
 ---
@@ -178,9 +178,9 @@ An IoT and AI-powered solution designed to improve urban waste collection throug
 
 | Area | Engagements & Milestones |
 | :--- | :--- |
-| ⚡ **Hackathons & Competitions** | Actively participated in innovation challenges; built AI, IoT, and full-stack solutions under tight deadlines. |
-| 🔬 **Research & Technical Projects** | Conducted research in explainable AI architectures, air-gapped knowledge systems, and health informatics. |
-| 👥 **Teamwork & Leadership** | Led project teams, coordinated campus tech events, and actively engaged in technical placement initiatives. |
+| ⚡ **Hackathons & Competitions** | Actively participated in innovation challenges; built AI, IoT and full-stack solutions under tight deadlines. |
+| 🔬 **Research & Technical Projects** | Conducted research in explainable AI architectures, air-gapped knowledge systems and health informatics. |
+| 👥 **Teamwork & Leadership** | Led project teams, coordinated campus tech events and actively engaged in technical placement initiatives. |
 | 💡 **Core Soft Skills** | Technical Leadership • Problem Solving • Public Speaking • Agile Collaboration • Adaptability |
 
 ---
@@ -241,7 +241,7 @@ I am actively interested in opportunities around:
 ## 🤝 Let's Connect
 
 <p align="center">
-  I'm always open to discussing new opportunities, collaborating on research projects, and connecting with fellow builders.
+  I'm always open to discussing new opportunities, collaborating on research projects and connecting with fellow builders.
 </p>
 
 <p align="center">
