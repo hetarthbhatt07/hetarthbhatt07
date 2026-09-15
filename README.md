@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=220&section=header&text=Hetarth%20Bhatt&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI/ML%20Researcher&descFontSize=17&descFontColor=a5b4fc&descAlignY=58" width="100%" alt="Hetarth Bhatt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,0f172a,1e1b4b,4338ca,0284c7,38bdf8&height=220&section=header&text=Hetarth%20Bhatt&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20%7C%20Full-Stack%20Developer%20%7C%20AI/ML%20Researcher&descFontSize=17&descFontColor=bae6fd&descAlignY=58" width="100%" alt="Hetarth Bhatt" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Building+scalable+full-stack+applications...;%3E+Researching+Applied+AI%2C+Deep+Learning+%26+Explainable+AI...;%3E+Developing+offline+air-gapped+research+assistants...;%3E+Architecting+cloud-native+systems+on+AWS...;%3E+Turning+complex+ideas+into+impactful+software." alt="Typing SVG" />
@@ -44,7 +44,7 @@
 
 ## 👋 About Me
 
-I'm **Hetarth Bhatt**, a Computer Engineering student at **LDRP Institute of Technology & Research (2024–2028)**, full-stack developer and applied AI/ML researcher from Gujarat, India.
+I'm **Hetarth Bhatt**, a Computer Engineering student at **LDRP Institute of Technology & Research (2024–2028)**, full-stack developer, Cloud Computing Learner and applied AI/ML researcher from Gujarat, India.
 
 I enjoy working at the intersection of **scalable software architectures**, **applied artificial intelligence** and **cloud computing**.
 
@@ -285,5 +285,5 @@ I am actively interested in opportunities around:
   <p align="center">
     <b>Still learning. Still building. Still innovating. 🚀</b>
   </p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,24,38&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=030712,0f172a,1e1b4b,4338ca,0284c7,38bdf8&height=100&section=footer" width="100%" alt="Footer Banner" />
 </div>
