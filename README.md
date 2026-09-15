@@ -6,36 +6,34 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=%3E+Building+scalable+full-stack+applications...;%3E+Researching+Applied+AI%2C+Deep+Learning+%26+Explainable+AI...;%3E+Developing+offline+air-gapped+research+assistants...;%3E+Architecting+cloud-native+systems+on+AWS...;%3E+Turning+complex+ideas+into+impactful+software." alt="Typing SVG" />
 </p>
 
+<!-- Social & Academic Badges -->
 <p align="center">
   <a href="https://www.hetarthbhatt.me/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-hetarthbhatt.me-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/hetarthbhatt/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-hetarthbhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://github.com/hetarthbhatt07" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-hetarthbhatt07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
+  &nbsp;
   <a href="https://scholar.google.com/citations?user=aLSgcZQAAAAJ&hl=en&authuser=1" target="_blank">
-    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
+  &nbsp;
   <a href="https://orcid.org/0009-0008-6547-8909" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0008--6547--8909-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
   </a>
+  &nbsp;
   <a href="mailto:hetarthbhattu07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/B.E._Computer_Engineering-LDRP--ITR_(2024--2028)-1e293b?style=flat-square&logo=academia&logoColor=white" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Gujarat%2C_India-0f766e?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/Focus-Full--Stack_•_AI%2FML_•_AWS-7c3aed?style=flat-square" alt="Focus" />
-</p>
-
+<!-- Profile Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hetarthbhatt07&label=PROFILE+VIEWS&color=0284c7&style=flat-square" alt="Profile Views" />
 </p>
