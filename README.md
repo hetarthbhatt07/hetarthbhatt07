@@ -52,28 +52,40 @@ I enjoy working at the intersection of **scalable software architectures**, **ap
 
 For me, building software is not just about writing code — it's about **understanding problems deeply, designing clean architectures and shipping reliable solutions that create real impact**.
 
-```javascript
-const hetarth = {
-  role: [
-    "Full-Stack Developer",
-    "AI/ML Researcher",
-    "Cloud Practitioner"
+```yaml
+╭───────────────────────────────────────────────────────────────────────────────────╮
+│  🔴  🟡  🟢  hetarth@workstation: ~ (zsh)                                         │
+├───────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                   │
+│         /\_/\         User      : hetarth (Hetarth Bhatt)                         │
+│        ( o.o )        Role      : Full-Stack Engineer • AI/ML Researcher • Cloud  │
+│         > ^ <         Degree    : B.E. Computer Engineering (2024 — 2028)         │
+│                       College   : LDRP Institute of Technology & Research         │
+│      .--------.       Location  : Gujarat, India 📍                               │
+│     /          \      Kernel    : MERN • Next.js • PyTorch • AWS Cloud • Linux    │
+│    |  HETARTH   |     Uptime    : 24/7 Continuous Learning & System Building      │
+│     \__________/      Shell     : zsh 5.9 (powerlevel10k)                         │
+│                       Tools     : VS Code • Postman • Figma • Jupyter • Colab     │
+│                       Research  : Offline LLMs • Clinical AI • Explainable AI     │
+│                       AWS Cloud : Amplify • EC2 • S3 • IAM                        │
+│                                                                                   │
+│  [Status]: 🟢 Systems Nominal | Ready for development & research collaborations   │
+│  [Colors]: ⬛ 🟥 🟩 🟨 🟦 🟪 🟦 ⬜                                                │
+╰───────────────────────────────────────────────────────────────────────────────────╯
+```
+
+```bash
+hetarth@system:~$ hetarth --query-mindset --verbose
+{
+  "mission": "Architect scalable web systems and research high-impact AI models",
+  "currently_exploring": [
+    "Air-Gapped & Offline LLM Retrieval Engines (FAISS / ChromaDB)",
+    "Adverse Drug Interaction Risk Systems & Explainable AI (XAI)",
+    "Cloud Native Infrastructure Automation & Scalability (AWS)",
+    "Distributed Backend Systems & High-Concurrency Architecture"
   ],
-  interests: [
-    "Deep Learning & Explainable AI (XAI)",
-    "Air-Gapped & Offline LLM Retrieval Systems",
-    "Cloud Architecture & Serverless (AWS)",
-    "Full-Stack Web Engineering",
-    "System Design & Algorithms"
-  ],
-  currentlyExploring: [
-    "AWS (Amplify, EC2, S3, IAM)",
-    "Vector Databases (FAISS, ChromaDB)",
-    "Clinical AI & Prescription Safety",
-    "Scalable Backend Microservices"
-  ],
-  philosophy: "Learn ➔ Build ➔ Break ➔ Understand ➔ Explain ➔ Innovate"
-};
+  "engineering_loop": "Learn ➔ Build ➔ Break ➔ Understand ➔ Explain ➔ Innovate"
+}
 ```
 
 ---
