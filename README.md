@@ -16,6 +16,9 @@
   <a href="https://github.com/hetarthbhatt07" target="_blank">
     <img src="https://img.shields.io/badge/GITHUB-hetarthbhatt07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/citations?user=aLSgcZQAAAAJ&hl=en&authuser=1" target="_blank">
     <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
@@ -222,13 +225,13 @@ I am actively interested in opportunities around:
 <div align="center">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hetarthbhatt07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=F43F5E&text_color=E2E8F0" height="175" alt="Hetarth's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetarthbhatt07&theme=tokyonight" alt="Profile Details" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hetarthbhatt07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=E2E8F0" height="175" alt="Hetarth's Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetarthbhatt07&theme=tokyonight" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hetarthbhatt07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" height="175" alt="Hetarth's Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=hetarthbhatt07&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F43F5E&currStreakLabel=38BDF8" alt="Streak Stats" />
 </p>
 
 </div>
@@ -243,27 +246,29 @@ I am actively interested in opportunities around:
 
 <p align="center">
   <a href="https://www.hetarthbhatt.me/" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-hetarthbhatt.me-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-hetarthbhatt.me-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/hetarthbhatt/" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-hetarthbhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-hetarthbhatt-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   &nbsp;
   <a href="https://github.com/hetarthbhatt07" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-hetarthbhatt07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-hetarthbhatt07-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://scholar.google.com/citations?user=aLSgcZQAAAAJ&hl=en&authuser=1" target="_blank">
-    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Scholar Badge" />
   </a>
   &nbsp;
   <a href="https://orcid.org/0009-0008-6547-8909" target="_blank">
-    <img src="https://img.shields.io/badge/ORCID-0009--0008--6547--8909-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" />
+    <img src="https://img.shields.io/badge/ORCID-0009--0008--6547--8909-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge" />
   </a>
   &nbsp;
   <a href="mailto:hetarthbhattu07@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-hetarthbhattu07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-hetarthbhattu07%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
 </p>
 
