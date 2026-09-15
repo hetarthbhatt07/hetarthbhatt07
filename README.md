@@ -53,25 +53,23 @@ I enjoy working at the intersection of **scalable software architectures**, **ap
 For me, building software is not just about writing code — it's about **understanding problems deeply, designing clean architectures and shipping reliable solutions that create real impact**.
 
 ```yaml
-╭───────────────────────────────────────────────────────────────────────────────────╮
-│  🔴  🟡  🟢  hetarth@workstation: ~ (zsh)                                         │
-├───────────────────────────────────────────────────────────────────────────────────┤
-│                                                                                   │
-│         /\_/\         User      : hetarth (Hetarth Bhatt)                         │
-│        ( o.o )        Role      : Full-Stack Engineer • AI/ML Researcher • Cloud  │
-│         > ^ <         Degree    : B.E. Computer Engineering (2024 — 2028)         │
-│                       College   : LDRP Institute of Technology & Research         │
-│      .--------.       Location  : Gujarat, India 📍                               │
-│     /          \      Kernel    : MERN • Next.js • PyTorch • AWS Cloud • Linux    │
-│    |  HETARTH   |     Uptime    : 24/7 Continuous Learning & System Building      │
-│     \__________/      Shell     : zsh 5.9 (powerlevel10k)                         │
-│                       Tools     : VS Code • Postman • Figma • Jupyter • Colab     │
-│                       Research  : Offline LLMs • Clinical AI • Explainable AI     │
-│                       AWS Cloud : Amplify • EC2 • S3 • IAM                        │
-│                                                                                   │
-│  [Status]: 🟢 Systems Nominal | Ready for development & research collaborations   │
-│  [Colors]: ⬛ 🟥 🟩 🟨 🟦 🟪 🟦 ⬜                                                │
-╰───────────────────────────────────────────────────────────────────────────────────╯
+╭─ hetarth@workstation ~ (zsh) ──────────────────────────────────────────────────● ● ●
+╰─$ fastfetch --profile
+
+         /\_/\         User       : hetarth (Hetarth Bhatt)
+        ( o.o )        Role       : Full-Stack Engineer • AI/ML Researcher • Cloud
+         > ^ <         Degree     : B.E. Computer Engineering (2024 — 2028)
+                       College    : LDRP Institute of Technology & Research
+      .--------.       Location   : Gujarat, India
+     /          \      Kernel     : MERN • Next.js • PyTorch • AWS Cloud • Linux
+    |  HETARTH   |     Uptime     : 24/7 Continuous Learning & System Building
+     \__________/      Shell      : zsh 5.9 (powerlevel10k)
+                       Tools      : VS Code • Postman • Figma • Jupyter • Colab
+                       Research   : Offline LLMs • Clinical AI • Explainable AI
+                       AWS Cloud  : Amplify • EC2 • S3 • IAM
+
+                       [Status]   : Systems Nominal • Ready to Build & Collaborate
+                       [Palette]  : ■ ■ ■ ■ ■ ■ ■ ■
 ```
 
 ```bash
