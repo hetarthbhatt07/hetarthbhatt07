@@ -235,7 +235,7 @@ I am actively interested in opportunities around:
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hetarthbhatt07&theme=tokyonight" alt="Profile Details" />
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetarthbhatt07&theme=tokyonight" alt="Top Languages" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hetarthbhatt07&theme=tokyonight" alt="Top Languages" /> -->
 </p>
 
 <p align="center">
