@@ -55,7 +55,7 @@ For me, building software is not just about writing code — it's about **unders
 ╰─$ fastfetch --profile
 
          /\_/\         User       : hetarth (Hetarth Bhatt)
-        ( o.o )        Role       : Full-Stack Engineer • AI/ML Researcher • Cloud
+        ( o.o )        Role       : DevOps Engineer • Full-Stack Engineer • AI/ML Researcher • Cloud
          > ^ <         Degree     : B.E. Computer Engineering (2024 — 2028)
                        College    : LDRP Institute of Technology & Research
       .--------.       Location   : Gujarat, India
@@ -64,7 +64,7 @@ For me, building software is not just about writing code — it's about **unders
      \__________/      Shell      : zsh 5.9 (powerlevel10k)
                        Tools      : VS Code • Postman • Figma • Jupyter • Colab
                        Research   : Offline LLMs • Clinical AI • Explainable AI
-                       AWS Cloud  : Amplify • EC2 • S3 • IAM
+                       AWS Cloud  : Amplify • EC2 • S3 • IAM • LAMBDA
 
                        [Status]   : Systems Nominal • Ready to Build & Collaborate
                        [Palette]  : ■ ■ ■ ■ ■ ■ ■ ■
